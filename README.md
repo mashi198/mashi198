@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 😀 test **bold text**
 - ✅  [test](https://www.example.com)
+- 🤣 _test_ ~~test~~ **test _test_ test** ***test*** <sub>test</sub> <sup>test</sup>
+> test
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
 
 <!--
 **mashi198/mashi198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
