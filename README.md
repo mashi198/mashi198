@@ -6,18 +6,20 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 - 😀 test **bold text**
 - ✅  [test](https://www.example.com)
-- 🤣 _test_ ~~test~~ **test _test_ test** ***test*** <sub>test</sub> <sup>test</sup>
+- 🤣 _test_
+- 😉 ~~test~~
+- 😝 **test _test_ test**
+- 😚 ***test***
+- 😐 test<sub>test</sub>test
+- 😒 test<sup>test</sup>test
+
 > test
+
+1. First item
+2. Second item
+3. Third item
 
 | Rank | Languages |
 |-----:|-----------|
