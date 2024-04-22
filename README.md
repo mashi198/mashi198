@@ -27,6 +27,26 @@ Here are some ideas to get you started:
 |     2| Python    |
 |     3| SQL       |
 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+That is so funny! :joy:
+
+I need to highlight these ==very important words==.
+
 <!--
 **mashi198/mashi198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
