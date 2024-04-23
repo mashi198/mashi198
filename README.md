@@ -51,6 +51,7 @@ Here's a sentence with a footnote2. [^2]
 - [ ] Contact the media
 
 That is so funny! :joy:
+
 :shushing_face:
 
 I need to highlight these ==very important words==.
