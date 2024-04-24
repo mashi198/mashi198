@@ -38,6 +38,8 @@ Here's a sentence with a footnote2. [^2]
 |     3| SQL       |
 |     4| Ruby      |
 
+🤔
+
 ```
 {
   "firstName": "John",
@@ -45,6 +47,8 @@ Here's a sentence with a footnote2. [^2]
   "age": 25
 }
 ```
+
+:saluting_face:
 
 - [x] Write the press release
 - [ ] Update the website
