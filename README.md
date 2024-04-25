@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😚 ***test***
 - 😐 test<sub>test</sub>test
 - 😒 test<sup>test</sup>test
-- :star_struck:🥴
+- :star_struck:
 
 > test
 
