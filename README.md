@@ -32,13 +32,6 @@ Here's a sentence with a footnote2. [^2]
 4. item4
 5. item5
 
-1. First item
-2. Second item
-3. Third item
-    - Indented item
-    - Indented item
-4. Fourth item
-
 | Rank | Languages |
 |-----:|-----------|
 |     1| JavaScript|
@@ -63,16 +56,24 @@ Here's a sentence with a footnote2. [^2]
 - [ ] Contact the media
 
 That is so funny! :joy:
-
+1. First item
+2. Second item
+3. Third item
+    - Indented item
+    - Indented item
+4. Fourth item
 :shushing_face:
 
 I need to highlight these ==very important words==.
 
 http://www.example.com
+
 X^2^
+
 `http://www.example.com`
 
 At the command prompt, type nano.
+
 At the command prompt, type `nano`.
 
 <!--
