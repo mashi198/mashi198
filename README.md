@@ -32,6 +32,13 @@ Here's a sentence with a footnote2. [^2]
 4. item4
 5. item5
 
+1. First item
+2. Second item
+3. Third item
+    - Indented item
+    - Indented item
+4. Fourth item
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| JavaScript|
@@ -60,6 +67,13 @@ That is so funny! :joy:
 :shushing_face:
 
 I need to highlight these ==very important words==.
+
+http://www.example.com
+X^2^
+`http://www.example.com`
+
+At the command prompt, type nano.
+At the command prompt, type `nano`.
 
 <!--
 **mashi198/mashi198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
