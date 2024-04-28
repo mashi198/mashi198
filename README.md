@@ -46,6 +46,11 @@ Here's a sentence with a footnote2. [^2]
 |Header|TitleTitleTitleTitle|Here's this|
 |Paragraph and|Text|And more and more|
 
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
 ```
 {
   "firstName": "John",
