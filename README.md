@@ -41,6 +41,11 @@ Here's a sentence with a footnote2. [^2]
 
 🤔
 
+|Syntax|Description|Test Text|
+|:---|:---:|---:|
+|Header|TitleTitleTitleTitle|Here's this|
+|Paragraph and|Text|And more and more|
+
 ```
 {
   "firstName": "John",
