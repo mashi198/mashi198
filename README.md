@@ -46,11 +46,6 @@ Here's a sentence with a footnote2. [^2]
 |Header|TitleTitleTitleTitle|Here's this|
 |Paragraph and|Text|And more and more|
 
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
 ```
 {
   "firstName": "John",
@@ -59,7 +54,13 @@ Here's a sentence with a footnote2. [^2]
 }
 ```
 
-:saluting_face:
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 - [x] Write the press release
 - [ ] Update the website
@@ -72,7 +73,10 @@ That is so funny! :joy:
     - Indented item
     - Indented item
 4. Fourth item
+
+:saluting_face:
 :shushing_face:
+:grinning_face:😀
 
 I need to highlight these ==very important words==.
 
