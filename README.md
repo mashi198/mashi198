@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 > test
 
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy: 
+
 Here's a sentence with a footnote2. [^2]
 [^2]: This is the footnote2.
 
