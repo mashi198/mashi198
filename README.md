@@ -96,17 +96,15 @@ Second Term
 
 😀
 
-I need to highlight these ==very important words==.
-
 http://www.example.com
+
+`http://www.example.com`
 
 X^2^
 
 H~2~O
 
-I need to highlight these ==very important words==.
-
-`http://www.example.com`
+I need to highlight these ==very important words==.😀
 
 At the command prompt, type nano.
 
