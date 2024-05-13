@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 - :star_struck:🤔
 - 🤔🤔
 
+:saluting_face:
+:shushing_face:
+:grinning_face:😀😀😀😀🤔
+
 > test
 
 Gone camping! :tent: Be back soon.
@@ -42,8 +46,6 @@ Here's a sentence with a footnote2. [^2]
 |     2| Python    |
 |     3| SQL       |
 |     4| Ruby      |
-
-🤔
 
 |Syntax|Description|Test Text|
 |:---|:---:|---:|
@@ -78,11 +80,6 @@ That is so funny! :joy:
     - Indented item
 4. Fourth item
 
-:saluting_face:
-:shushing_face:
-:grinning_face:😀
-
-
 First Term
 : This is the definition of the first term.
 
@@ -90,11 +87,7 @@ Second Term
 : This is one definition of the second term.
 : This is another definition of the second term.
 
-😀
-
-~~The world is flat.~~ We now know that the world is round.
-
-😀
+We now know that the world is round.
 
 http://www.example.com
 
@@ -104,7 +97,7 @@ X^2^
 
 H~2~O
 
-I need to highlight these ==very important words==.😀
+I need to highlight these ==very important words==.
 
 At the command prompt, type nano.
 
