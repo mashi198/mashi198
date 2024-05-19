@@ -1,6 +1,4 @@
 #  editing (e.g. in progress)
-##  in training
-### Hi there 👋
 
 **mashi198/mashi198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +24,7 @@ Here are some ideas to get you started:
 :grinning_face:😀😀😀😀🤔
 
 > test
-
+##  in training
 Gone camping! :tent: Be back soon.
 
 That is so funny! :joy: 
@@ -86,7 +84,7 @@ First Term
 Second Term
 : This is one definition of the second term.
 : This is another definition of the second term.
-
+### Hi there 👋
 We now know that the world is round.
 
 http://www.example.com
