@@ -8,16 +8,16 @@ Here's a sentence with a footnote. [^1]
 
 Here are some ideas to get you started:
 
-- 😀 test **bold text**
+- test **bold text**
 - ✅  [test](https://www.example.com)
-- 🤣 _test_
-- 😉 ~~test~~
-- 😝 **test _test_ test**
-- 😚 ***test***
-- 😐 test<sub>test</sub>test
-- 😒 test<sup>test</sup>test
+- _test_
+- ~~test~~
+- **test _test_ test**
+- ***test***
+- test<sub>test</sub>test
+- test<sup>test</sup>test
 - :star_struck:🤔
-- 🤔🤔
+- 🤔🤔😀🤣😉😝😚😐😒
 
 :saluting_face:
 :shushing_face:
