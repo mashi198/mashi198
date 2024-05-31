@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 - ***test***
 - test<sub>test</sub>test
 - test<sup>test</sup>test
-- :star_struck:🤔🤔🤔😀🤣😉😝😚😐😒:saluting_face::shushing_face::grinning_face:😀😀😀😀🤔
+- :star_struck:🤔🤔🤔😀🤣😉😝😚😐😒:shushing_face:😀😀😀😀🤔:joy::tent:
 
 > test
 ##  in training
-Gone camping! :tent: Be back soon.
-
-That is so funny! :joy: 
+That is so funny! 
 
 Here's a sentence with a footnote2. [^2]
 [^2]: This is the footnote2.
