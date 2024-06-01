@@ -46,7 +46,6 @@ Here's a sentence with a footnote2. [^2]
 ```
 {
   "firstName": "John",
-  "lastName": "Smith",
   "age": 25
 }
 ```
@@ -54,7 +53,6 @@ Here's a sentence with a footnote2. [^2]
 ```json
 {
   "firstName": "John",
-  "lastName": "Smith",
   "age": 25
 }
 ```
