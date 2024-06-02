@@ -59,7 +59,7 @@ Here's a sentence with a footnote2. [^2]
 
 - [x] Write the press release
 - [ ] Update the website
-- [ ] Contact the media
+- [x] Contact the media
 
 That is so funny! :joy:
 1. First item
@@ -76,21 +76,19 @@ Second Term
 : This is one definition of the second term.
 : This is another definition of the second term.
 ### Hi there 👋
-We now know that the world is round.
-
 http://www.example.com
 
 `http://www.example.com`
+
+At the command prompt, type nano.
+
+At the command prompt, type `nano`.
 
 X^2^
 
 H~2~O
 
 I need to highlight these ==very important words==.
-
-At the command prompt, type nano.
-
-At the command prompt, type `nano`.
 
 <!--
 **mashi198/mashi198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
