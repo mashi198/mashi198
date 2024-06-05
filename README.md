@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 > test
 ##  in training
-That is so funny! 
+That is so funny2! 
 
 Here's a sentence with a footnote2. [^2]
 [^2]: This is the footnote2.
