@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - test **bold text**
 - ✅  [test](https://www.example.com)
-- _test_
+- _test2_
 - ~~test~~
 - **test _test_ test**
 - ***test***
