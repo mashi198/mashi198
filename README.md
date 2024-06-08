@@ -33,10 +33,10 @@ Here's a sentence with a footnote2. [^2]
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
-|     4| Ruby      |
+|1     | Java      |
+|12|Python|
+|123|SQL|
+|1234|Ruby|
 
 |Syntax|Description|Test Text|
 |:---|:---:|---:|
