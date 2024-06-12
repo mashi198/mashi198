@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ***test2***
 - test<sub>test</sub>test
 - test<sup>test</sup>test
-- :star_struck:🤔🤔🤔😀🤣😉😝😚😐😒😀😀😀🤔:joy::tent:
+- :star_struck:🤔🤔🤔😀🤣😉😝😚😒😀😀😀🤔:joy::tent:
 
 > test
 ##  in training
