@@ -36,6 +36,8 @@ Here's a sentence with a footnote2. [^2]
 |1     | Java      |
 |12|Python|
 |123|SQL|
+|9|SQL|
+|9999|SQL|
 |1234|Ruby|
 
 |Syntax|Description|Test Text|
