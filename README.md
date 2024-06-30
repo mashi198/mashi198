@@ -38,6 +38,7 @@ Here's a sentence with a footnote2. [^2]
 |12|Python|
 |123|SQL|
 |9|SQL|
+|9|SQL|
 |1299999|SQL|
 |1234|Ruby|
 
