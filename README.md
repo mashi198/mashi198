@@ -83,9 +83,9 @@ Second Term
 http://www.example.com
 
 `http://www.example.com`
-
+<!--
 At the command prompt, type nano.
-
+-->
 At the command prompt, type `nano`.
 
 H~2~O
