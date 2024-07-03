@@ -69,8 +69,9 @@ That is so funny! :joy:
 1. First item
 2. Second item
 3. Third item
-    - Indented item
-    - Indented item
+    - Indented item1
+    - Indented item2
+    - Indented item3
 4. Fourth item
 
 First Term
