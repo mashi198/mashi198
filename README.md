@@ -72,6 +72,7 @@ That is so funny! :joy:
     - Indented item1
     - Indented item2
     - Indented item3
+    - Indented item4
 4. Fourth item
 
 First Term
