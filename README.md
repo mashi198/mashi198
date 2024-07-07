@@ -25,7 +25,7 @@ That is so funny3!
 Here's a sentence with a footnote2. [^2]
 [^2]: This is the footnote2.
 
-Here's a sentence with a footnote2. [^3]
+Here's a sentence with a footnote3. [^3]
 [^3]: ここに注釈書いて下に表示されるんだ
 
 1. First item
