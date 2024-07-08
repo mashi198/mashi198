@@ -53,7 +53,7 @@ Here's a sentence with a footnote3. [^3]
 ```
 {
   "firstName": "John",
-  "age": 25
+  "age": 26
 }
 ```
 
