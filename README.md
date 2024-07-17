@@ -37,7 +37,7 @@ Here's a sentence with a footnote3. [^3]
 | Rank | Languages |
 |-----:|-----------|
 |1     | Java      |
-|12313123123|SQL|
+|12313123|SQL|
 |12|Python|
 |123|SQL|
 |8|SQL|
