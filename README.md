@@ -44,7 +44,7 @@ Here's a sentence with a footnote3. [^3]
 |9|SQL|
 |1234567890234567890|Python|
 |1299999|SQL|
-|1234|Ruby|
+|134|Ruby|
 
 |Syntax|Description|Test Text|
 |:---|:---:|---:|
