@@ -41,6 +41,7 @@ Here's a sentence with a footnote3. [^3]
 |12|Python|
 |123|SQL|
 |778|SQL|
+|7|SQL|
 |8|SQL|
 |9|SQL|
 |1234567890234567890|Python|
