@@ -69,6 +69,7 @@ Here's a sentence with a footnote3. [^3]
 
 - [x] Write the press release
 - [ ] Update the website
+- [x] Update the website
 - [x] Contact the media
 
 That is so funny! :joy:
