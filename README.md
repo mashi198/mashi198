@@ -33,6 +33,7 @@ Here's a sentence with a footnote3. [^3]
 3. Third item
 4. item4
 5. item5
+6. item6
 
 | Rank | Languages |
 |-----:|-----------|
