@@ -30,10 +30,11 @@ Here's a sentence with a footnote3. [^3]
 
 1. First item
 2. Second item
-3. Third item
+2. Third item
 4. item4
-5. item5
-6. item6
+4. item4-2
+4. item5
+4. item6
 
 | Rank | Languages |
 |-----:|-----------|
