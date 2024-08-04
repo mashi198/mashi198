@@ -29,11 +29,11 @@ Here's a sentence with a footnote3. [^3]
 [^3]: ここに注釈書いて下に表示されるんだ
 
 1. First item
-2. Second item
-2. Third item
-4. item4
+0. Second item
+8. Third item
+5. item4
 4. item4-2
-4. item5
+3. item5
 4. item6
 
 | Rank | Languages |
