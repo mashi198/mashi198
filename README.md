@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - test<sub>test</sub>test
 - test<sup>test</sup>test
 - :star_struck:😝🤣🤔😉😀🤔😀🤔😝:joy::tent:🤣🤣😉😀🤔:joy::tent:🤔😉😝🤣🤔😉😀🤔😀🤣🤔
+- :star_struck:😝:joy::tent:🤣:joy::tent:🤔
 
 > test
 ##  in training
